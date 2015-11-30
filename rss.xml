@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Accodex]]></title>
         <description><![CDATA[Accodex]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/accodex/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 30 Nov 2015 23:13:09 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 30 Nov 2015 23:19:43 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/accodex/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cf50cdc6-7c04-46a5-aa7e-aa7614626d49.jpg">]]></description>
+            <link>https://thegrid.ai/accodex/0db91bf5-0c9e-4228-98b9-81eb1c5f0150/index.html</link>
+            <guid isPermaLink="false">0db91bf5-0c9e-4228-98b9-81eb1c5f0150</guid>
+            <pubDate>Mon, 30 Nov 2015 23:19:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8dde3037-9146-470e-8495-6f864132f0de.jpg">]]></description>
-            <link>undefined3c53dc68-173e-4f91-9902-366a81470698/index.html</link>
+            <link>https://thegrid.ai/accodex/3c53dc68-173e-4f91-9902-366a81470698/index.html</link>
             <guid isPermaLink="false">3c53dc68-173e-4f91-9902-366a81470698</guid>
             <pubDate>Mon, 30 Nov 2015 23:12:59 GMT</pubDate>
         </item>
