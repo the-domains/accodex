@@ -1,6 +1,6 @@
 name: Accodex
 favicon: null
-layout_spectrum: 0.25879
+layout_spectrum: 0.9902
 typography_spectrum: 0.845328576862812
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
+    - '#45a1ee'
+    - '#fbffff'
+    - '#d4f2ff'
+    - '#6eabdd'
+    - '#bee0f2'
   brandStrength: 0.658250586129725
   lightness: 0.5
   saturation: 0.25
-  rhythmicContrast: 0.5
+  rhythmicContrast: 0.25
 purpose: []
